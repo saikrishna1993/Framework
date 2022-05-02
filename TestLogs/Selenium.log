@@ -1,0 +1,8 @@
+14:43:52,912 DEBUG Suntuity:409 - User navigating to the URL
+14:44:13,500 DEBUG Suntuity:722 - Login functionality working successfully
+14:45:18,465 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:45:18,466 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:45:18,467 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:45:18,468 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:45:18,469 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:47:56,079 DEBUG Suntuity:727 - Lead one pager is Working

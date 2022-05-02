@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 39.788 s <<< FAILURE! - in TestSuite
+source.Suntuity.setUp  Time elapsed: 38.876 s  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4SAH56R', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: RemoteWebDriver
+	at source.Suntuity.setUp(Suntuity.java:118)
+Caused by: java.net.UnknownHostException: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server (hub-cloud.browserstack.com)
+	at source.Suntuity.setUp(Suntuity.java:118)
+
+source.Suntuity.tearDown  Time elapsed: 38.877 s  <<< FAILURE!
+java.lang.NullPointerException
+	at source.Suntuity.tearDown(Suntuity.java:239)
+

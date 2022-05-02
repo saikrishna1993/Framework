@@ -1,0 +1,4 @@
+# Created at 2021-06-17T18:18:41.973
+Boot Manifest-JAR contains absolute paths in classpath 'E:\SuntuityWorkspace\Project_suntuity\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Start:02_43_44pm_09_Jul_2021_IP192.168.137.1]]>
+    </line>
+    <line>
+      <![CDATA[Start Time:14:43:45]]>
+    </line>
+    <line>
+      <![CDATA[End Time:14:47:56]]>
+    </line>
+    <line>
+      <![CDATA[Total Execution Time:0:4:11]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-07-09T09:12:38Z" name="suntuity" finished-at="2021-07-09T09:17:58Z" duration-ms="320250">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T09:12:38Z" name="suntuity" finished-at="2021-07-09T09:17:58Z" duration-ms="320250">
+      <class name="source.initilize">
+        <test-method signature="Test_initilize_main()[pri:0, instance:source.initilize@65c7a252]" started-at="2021-07-09T09:12:38Z" name="Test_initilize_main" finished-at="2021-07-09T09:13:30Z" duration-ms="52498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_initilize_main -->
+      </class> <!-- source.initilize -->
+      <class name="source.Suntuity">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:source.Suntuity@4d154ccd]" started-at="2021-07-09T09:13:31Z" name="setUp" finished-at="2021-07-09T09:13:44Z" duration-ms="13843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Test()[pri:0, instance:source.Suntuity@4d154ccd]" started-at="2021-07-09T09:13:44Z" name="Test" finished-at="2021-07-09T09:17:56Z" duration-ms="251808" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Start:02_43_44pm_09_Jul_2021_IP192.168.137.1]]>
+            </line>
+            <line>
+              <![CDATA[Start Time:14:43:45]]>
+            </line>
+            <line>
+              <![CDATA[End Time:14:47:56]]>
+            </line>
+            <line>
+              <![CDATA[Total Execution Time:0:4:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:source.Suntuity@4d154ccd]" started-at="2021-07-09T09:17:56Z" name="tearDown" finished-at="2021-07-09T09:17:58Z" duration-ms="2067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- source.Suntuity -->
+    </test> <!-- suntuity -->
+  </suite> <!-- suntuity -->
+</testng-results>

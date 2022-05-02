@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suntuity" verbose="3" >
+
+
+
+  
+  <test name="suntuity" preserve-order="true" >
+   <classes>
+   <class name="source.initilize"/>
+   <class name="source.Suntuity"/>
+    	
+    </classes>
+  </test>
+</suite>
