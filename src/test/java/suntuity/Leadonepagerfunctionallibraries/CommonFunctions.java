@@ -49,6 +49,7 @@ public class CommonFunctions extends UtilityScript{
 	public Workbook WorkBook;
     public boolean flag=false;
     public  boolean singnin;
+    public boolean a=false;
 	/**
 	 * it will wait until element invisible on the web page within specified time
 	 *  @author Sai Krishna
